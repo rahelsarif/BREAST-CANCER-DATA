@@ -22,7 +22,7 @@ Area chart: this chart displays the distribution of patients by age.
 
 Navigation bar: this bar appears on the left side of the dashboard and contains dropdown menus for View, Birads, Invasive, Machine ID, Density, and Difficult Case.
 
-Slicers: there are three slicers at the bottom of the dashboard that allow users to filter the data by biopsy, age, and biopsy.
+Slicers: there are three slicers at the bottom of the dashboard that allow users to filter the data by biopsy, age, and laterlity.
 
 
 
